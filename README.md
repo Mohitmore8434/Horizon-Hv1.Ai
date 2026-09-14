@@ -161,9 +161,13 @@ To manage signal integrity for high-speed buses and prevent cross-talk between R
 
 <br> • Custom RTOS Architecture & Inter-Process Communication <br>
 
-<br> • Power Plane Routing, DFM/DRC Validation & Ansys Simulations <br>
+<br> • High-Speed Signal Routing & Differential Line Validation ,Power Plane Routing, DFM/DRC Validation & Ansys Simulations <br>
 
-<br> • Desktop Horizon IDE & OTA Pipeline Engineering |
+<br> • Desktop Horizon IDE & OTA Pipeline
+
+<br> • EMI/EMC Analysis & Hardware Simulation <br>
+
+ Engineering |
 | **Rohit Narkhede** | **Hardware & Mobile Systems Engineer** <br>
 
 <br> • High-Speed Signal Routing & Differential Line Validation <br>
